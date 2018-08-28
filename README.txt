@@ -1,6 +1,7 @@
 Udacity's Data Anaylist Nano Degree Course Project: 
 
-    This is a course project for my DAND Introduction to Python Programming. 
+This project is designed to analyze bike-share data for three major cities around the US. It's an interactive project that is compiled on Jupyter Notebook. 
+
     The USBikeshareDataset.py is a python script that analyzes US Bikeshare Data provided by Motivate.
     
 Running the Project: 
